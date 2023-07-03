@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SummerPr" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/pink</item>
+    </style>
+
+    <style name="Theme.SummerPr" parent="Base.Theme.SummerPr" />
+</resources>
